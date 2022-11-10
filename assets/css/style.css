@@ -135,6 +135,7 @@ img {
 .link-custom {
     font-weight: 700;
     position: relative;
+    margin-left: 10px;
 }
 
 .link-custom::after {
